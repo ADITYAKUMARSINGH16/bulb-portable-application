@@ -4,7 +4,9 @@ This folder contains the portable version of the Bulb Control application. No Py
 
 ## Contents
 - `BulbControl.exe`: The main application for controlling your WiZ lights.
+  - Location: `g:\bulbv1app\bulb control\Portable_BulbControl\BulbControl.exe`
 - `FindBulb.exe`: A utility to scan your network and find WiZ bulbs.
+  - Location: `g:\bulbv1app\bulb control\Portable_BulbControl\FindBulb.exe`
 - `config.json`: Configuration file storing your settings (IP, area, etc.).
 
 ## How to Use

@@ -16,6 +16,15 @@ This application synchronizes your computer screen's colors with your WiZ smart 
 
 ---
 
+## Portable Version (No Install Needed)
+
+A portable version is available that does not require Python installation.
+1.  Go to the `Portable_BulbControl` folder.
+2.  Run **`FindBulb.exe`** to discover your bulb's IP address.
+3.  Run **`BulbControl.exe`** to start the application.
+
+---
+
 ## Setup
 
 ### 1. Prerequisites
