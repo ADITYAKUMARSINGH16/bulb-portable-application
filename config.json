@@ -1,0 +1,13 @@
+{
+    "ip": "192.168.29.140",
+    "mode": "Dominant",
+    "saturation": 2.7109826589595376,
+    "brightness_threshold": 0.5,
+    "smoothing": 0.9,
+    "area": {
+        "top": 485,
+        "left": 796,
+        "width": 292,
+        "height": 197
+    }
+}
